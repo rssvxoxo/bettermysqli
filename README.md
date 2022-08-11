@@ -3,7 +3,7 @@ Inspired from Invision Community's Database Class. Developed this when I started
 <br>
 Usage <br>
 <br>
-<?php<br>
+<?php <br>
 require_once 'Db.php';<br>
 $db = new Db;<br>
 
